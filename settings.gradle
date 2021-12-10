@@ -1,0 +1,2 @@
+rootProject.name = "tareq-jildeh"
+include ':app'
